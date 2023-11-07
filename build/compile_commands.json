@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/qianzezhong/Documents/VSCode_Projects/Test_PID/build",
+  "command": "/usr/bin/g++ -DGLOG_CUSTOM_PREFIX_SUPPORT -I/home/qianzezhong/Documents/VSCode_Projects/Test_PID/include -isystem /usr/include/opencv4 -isystem /usr/local/include/eigen3 -g -std=gnu++17 -o CMakeFiles/pid_test.dir/main.cpp.o -c /home/qianzezhong/Documents/VSCode_Projects/Test_PID/main.cpp",
+  "file": "/home/qianzezhong/Documents/VSCode_Projects/Test_PID/main.cpp"
+}
+]
